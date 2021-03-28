@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "..\\Go\\src\\test"
+		},
+		{
+			"path": "..\\python"
+		}
+	],
+	"settings": {
+		"background.style": {
+
+
+
+
+			"content": "''",
+			"pointer-events": "none",
+			"position": "absolute",
+			"z-index": "9999",
+			"width": "100%",
+			"height": "100%",
+			"background-position": "100% 100%",
+			"background-repeat": "no-repeat",
+			"opacity": 1
+		},
+		"background.styles": [
+
+
+			{},
+			{},
+			{}
+		],
+		"background.useDefault": false,
+		"background.customImages": [
+		
+		]
+	}
+}
